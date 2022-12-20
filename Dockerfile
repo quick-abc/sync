@@ -7,6 +7,5 @@ ADD . /app
 EXPOSE 5000
 <<<<<<< Updated upstream
 CMD [pythin abc.py]
-=======
 ENTERY-POINT
 >>>>>>> Stashed changes
